@@ -1,9 +1,10 @@
 <H3>Name : Suriya Pravin M</H3>
 <H3>Register no : 212223230223</H3>
 <H3>Date 19-02-2026</H3>
-<H3>Experiment No. 2 </H3>
 
-## Implementation of Perceptron for Binary Classification
+# Experiment No. 2 
+
+# Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
